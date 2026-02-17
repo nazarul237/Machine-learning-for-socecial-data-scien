@@ -68,7 +68,7 @@ click @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_2bwa
 cloudpickle @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_04keaza5jy/croot/cloudpickle_1751309451361/work
 colorcet @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/colorcet_1728594017635/work
 comm @ file:///opt/miniconda3/conda-bld/comm_1763119153598/work
-conda @ file:///opt/miniconda3/conda-bld/conda_1765567809749/work/conda-src
+conda @ file:///Users/runner/miniforge3/conda-bld/conda_1770031518347/work/conda-src
 conda-anaconda-telemetry @ file:///croot/conda-anaconda-telemetry_1755883788794/work
 conda-anaconda-tos @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_ebkcs5yxh6/croot/conda-anaconda-tos_1755123330773/work
 conda-build @ file:///opt/miniconda3/conda-bld/conda-build_1764886795727/work
@@ -393,6 +393,7 @@ widgetsnbextension @ file:///opt/miniconda3/conda-bld/widgetsnbextension_1761556
 wrapt @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_30cvf__dq_/croot/wrapt_1736541623359/work
 wurlitzer @ file:///opt/miniconda3/conda-bld/wurlitzer_1756979036322/work
 xarray @ file:///opt/miniconda3/conda-bld/xarray_1761080735617/work
+xgboost @ file:///home/conda/feedstock_root/build_artifacts/xgboost-split_1770963435854/work/python-package
 xlwings @ file:///opt/miniconda3/conda-bld/xlwings_1758805138759/work
 xyzservices @ file:///opt/miniconda3/conda-bld/xyzservices_1758720201642/work
 yapf @ file:///opt/miniconda3/conda-bld/yapf_1761560514687/work
