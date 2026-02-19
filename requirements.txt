@@ -1,6 +1,8 @@
+cat > requirements.txt << 'EOF'
 numpy
 pandas
 pyarrow
 scikit-learn
 xgboost
 matplotlib
+EOF
