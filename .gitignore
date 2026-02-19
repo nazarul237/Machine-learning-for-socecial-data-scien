@@ -206,9 +206,20 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 # --- project data (too large for GitHub) ---
-data/
-*.parquet
-*.parquet.gzip
+# Ignore the large raw dataset
+data/osn23_landings_merged.parquet.gzip
+
+# Ignore parquet files by default
+data/*.parquet
+data/*.parquet.gzip
+
+# Allow ONLY the prepared datasets needed for replication (for marking)
+!data/
+!data/.gitkeep
+!data/train_2019_2022_sample.parquet
+!data/test_2023H1_full.parquet
+
+# (optional) keep these ignores if you want
 *.gz
 *.zip
 .DS_Store
